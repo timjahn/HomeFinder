@@ -1,0 +1,14 @@
+.form-control { width: auto; display: inline; }
+#search-form-wrapper { position: fixed; top: 0; width: 100%; box-shadow: 1px -2px 10px 0px #999; background-color: #FFFFFF; }
+#search-form { font-size: 20px; width: 600px; margin: 0px auto; padding: 20px 0px 20px 0px; }
+#search-form p { line-height: 60px; }
+#results-wrapper { width: 100%; }
+#results { width: 600px; background-color: #EEEEEE; margin: 0px auto; border-left: 1px #999999 solid; border-right: 1px #999999 solid; border-bottom: 1px #999999 solid; padding: 300px 20px 20px 20px; }
+.listing-left, .listing-right { float: left; }
+.listing-left { width: 200px; text-align: center; }
+.listing-right { margin-left: 10px; }
+.listing { margin: 0px 0px 30px 0px; padding: 0px 0px 30px 0px; border-bottom: 1px #CCCCCC solid; width: 100%; }
+#search-controls-left, #search-controls-right { float: left; }
+#search-controls-left { width: 300px; }
+#search-controls-right { padding-top: 8px; }
+.clear { float: none; clear: both; }
